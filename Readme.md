@@ -63,13 +63,6 @@ graph TD;
 ## 📈 GitHub Activity Graph:
 [![erbiaoger's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erbiaoger&theme=github-compact)](https://github.com/erbiaoger)
 
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![erbiaoger's github stats](https://github-readme-stats.vercel.app/api?username=erbiaoger&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erbiaoger&theme=radical&layout=compact) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=erbiaoger"></img>
-
-## profile-green-animate
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-night-rainbow.svg">
@@ -84,6 +77,15 @@ graph TD;
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake.svg">
 </picture>
+
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![erbiaoger's github stats](https://github-readme-stats.vercel.app/api?username=erbiaoger&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erbiaoger&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=erbiaoger"></img>
+
+
+
 
 
 
