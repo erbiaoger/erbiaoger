@@ -16,7 +16,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Zhiyu+Zhang;+Welcome+to+My+Profile!;I'm+a+Master+of+Geophysics+from+Jilin+University+🇨🇳.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Zhiyu+Zhang;a+Master+of+Geophysics+from+Jilin+University+🇨🇳.;You+can+call+me+"erbiaoger"!;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 
 
