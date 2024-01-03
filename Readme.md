@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+![](src/Bottom_up.svg)
 
 <!--   my-icons -->
 <p align="center">
@@ -16,8 +16,8 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 
-<!--   my-ticker -->    \
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Zhiyu+Zhang;+Welcome+to+My+Profile!;I'm+a+Master+of+Geophysics+from+Jilin+University.)](https://git.io/typing-svg)
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Zhiyu+Zhang;+Welcome+to+My+Profile!;I'm+a+Master+of+Geophysics+from+Jilin+University+🇨🇳.)](https://git.io/typing-svg)
 
 <!--   my-skils -->
 
@@ -33,7 +33,7 @@
 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+## 📈 GitHub Activity Graph:
 [![erbiaoger's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erbiaoger&theme=github-compact)](https://github.com/erbiaoger)
 
 | .                                                                                                                                       | .                                                                                                                         |
@@ -42,8 +42,14 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=erbiaoger"></img>
 
-  <!-- profile-green-animate
-![](./profile-3d-contrib/profile-green-animate.svg) -->
+## profile-green-animate
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-season-animate.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-green-animate.svg">
+</picture>
+
 
 <!--   grid-snake -->
 <picture>
@@ -54,6 +60,8 @@
 
 
 
+<!--  2d history skills -->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbiaoger" width="auto"></img>
 
 
 
@@ -63,9 +71,7 @@
 
 
 
-
-
-#### Thanks for visiting :heart:
+## Thanks for visiting :heart:
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/erbiaoger/count.svg">  
