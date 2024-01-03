@@ -78,13 +78,16 @@ graph TD;
     Zhang-Zhiyu-->Deep-learning;
     Zhang-Zhiyu-->DAS;
     Zhang-Zhiyu-->Geophysics;
+    Geophysics-->Specfem;
+    Geophysics-->Seisflows;
     Geophysics-->HVSR;
     Geophysics-->Dispersion;
-    HVSR-->inversion;
-    Dispersion-->inversion;
     Deep-learning-->inversion;
     Deep-learning-->Verhicle-Track;
     DAS-->Verhicle-Track;
+    HVSR-->inversion;
+    Dispersion-->inversion;
+    Specfem-->Seisflows;
    ```
 
  
