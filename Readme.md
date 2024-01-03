@@ -65,7 +65,25 @@
 
 
 
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erbiaoger" alt="erbiaoger" /></a>
+</p>
 
+
+
+
+<!--machine-learning-->
+```mermaid
+graph TD;
+    machine-learning-->Data;
+    machine-learning-->Algorithms;
+    machine-learning-->Statistical-Models;
+    machine-learning-->Feature-Engineering;
+    machine-learning-->Evaluation-Metrics;
+    machine-learning-->Deployment;
+   ```
+   
+ 
 
 
 
