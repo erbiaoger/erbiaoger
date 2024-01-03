@@ -19,6 +19,33 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Zhiyu+Zhang;+Welcome+to+My+Profile!;I'm+a+Master+of+Geophysics+from+Jilin+University+🇨🇳.)](https://git.io/typing-svg)
 
+
+<!--machine-learning-->
+```mermaid
+graph TD;
+    Zhang-Zhiyu-->Deep-learning;
+    Zhang-Zhiyu-->DAS;
+    Zhang-Zhiyu-->Geophysics;
+    Zhang-Zhiyu-->Qt;
+    Geophysics-->Specfem;
+    Geophysics-->Seisflows;
+    Geophysics-->HVSR;
+    Geophysics-->Dispersion;
+    Geophysics-->GPR;
+    Deep-learning-->inversion;
+    Deep-learning-->Verhicle-Track;
+    DAS-->Verhicle-Track;
+    HVSR-->inversion;
+    Dispersion-->inversion;
+    Specfem-->Seisflows;
+    Qt-->dasQt;
+    DAS-->dasQt;
+    GPR-->csimGPR;
+    Qt-->csimGPR;
+
+   ```
+
+
 <!--   my-skils -->
 
 | Property | Data |
@@ -68,34 +95,6 @@
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erbiaoger" alt="erbiaoger" /></a>
 </p>
-
-
-
-
-<!--machine-learning-->
-```mermaid
-graph TD;
-    Zhang-Zhiyu-->Deep-learning;
-    Zhang-Zhiyu-->DAS;
-    Zhang-Zhiyu-->Geophysics;
-    Zhang-Zhiyu-->Qt;
-    Geophysics-->Specfem;
-    Geophysics-->Seisflows;
-    Geophysics-->HVSR;
-    Geophysics-->Dispersion;
-    Geophysics-->GPR;
-    Deep-learning-->inversion;
-    Deep-learning-->Verhicle-Track;
-    DAS-->Verhicle-Track;
-    HVSR-->inversion;
-    Dispersion-->inversion;
-    Specfem-->Seisflows;
-    Qt-->dasQt;
-    DAS-->dasQt;
-    GPR-->csimGPR;
-    Qt-->csimGPR;
-
-   ```
 
  
 
