@@ -1,5 +1,10 @@
 
-<picture> 
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![erbiaoger's github stats](https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake.svg) | ![Quiec's github stats](https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-season-animate.svg) |
+
+
+<!-- <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake-dark.svg"> 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake.svg">
@@ -7,8 +12,7 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-season-animate.svg" width="300">
-      <br>GPRlab<br>
-</h1>
+</h1> -->
 
 <!--   my-icons -->
 <p align="center">
