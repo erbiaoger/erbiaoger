@@ -75,12 +75,12 @@
 <!--machine-learning-->
 ```mermaid
 graph TD;
-    Zhang Zhiyu-->Deep-learning-->Data;
-    Zhang Zhiyu-->Deep-learning-->DAS;
-    Zhang Zhiyu-->Deep-learning-->Verhicle-Track;
-    Zhang Zhiyu-->Deep-learning-->a;
-    Zhang Zhiyu-->Deep-learning-->Evaluation-Metrics;
-    Zhang Zhiyu-->Deep-learning-->Deployment;
+    Zhang-Zhiyu-->Deep-learning-->Data;
+    Zhang-Zhiyu-->Deep-learning-->DAS;
+    Zhang-Zhiyu-->Deep-learning-->Verhicle-Track;
+    Zhang-Zhiyu-->Deep-learning-->a;
+    Zhang-Zhiyu-->Deep-learning-->Evaluation-Metrics;
+    Zhang-Zhiyu-->Deep-learning-->Deployment;
    ```
 <!-- ![# DAS](https://raw.githubusercontent.com/erbiaoger/PicGo/main/2023-11-2520240103190919.png) -->
  
