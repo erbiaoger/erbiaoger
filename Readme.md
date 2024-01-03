@@ -1,4 +1,10 @@
-![](src/Bottom_up.svg)
+<!--   grid-snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 <!--   my-icons -->
 <p align="center">
@@ -51,26 +57,20 @@ graph TD;
 | **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](https://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) |
 |**OS**|![Mac Badge](https://img.shields.io/badge/-Mac%20OS-000000?style=flat-square&logo=macos&logoColor=B0C4DE) ![ubuntu Badge](https://img.shields.io/badge/-Ubuntu-eee?style=flat-square&logo=ubuntu&logoColor=FF6F00) ![Mac Badge](https://img.shields.io/badge/-Windows-eee?style=flat-square&logo=windows&logoColor=00BFFF) |
 
-
-
-<!--   GitHub stats graph -->
-## 📈 GitHub Activity Graph:
-[![erbiaoger's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erbiaoger&theme=github-compact)](https://github.com/erbiaoger)
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-night-rainbow.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-season-animate.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-green-animate.svg">
 </picture>
 
+<!--   GitHub stats graph -->
+## 📈 GitHub Activity Graph:
+[![erbiaoger's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erbiaoger&theme=github-compact)](https://github.com/erbiaoger)
 
-<!--   grid-snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake.svg">
-</picture>
+
+
+
+
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
