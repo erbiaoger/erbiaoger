@@ -76,14 +76,11 @@
 ```mermaid
 graph TD;
     Zhang-Zhiyu-->Deep-learning;
-    Deep-learning-->Data;
-    Deep-learning-->DAS;
+    Zhang-Zhiyu-->DAS;
     Deep-learning-->Verhicle-Track;
-    Deep-learning-->a;
-    Deep-learning-->Evaluation-Metrics;
-    Deep-learning-->Deployment;
+    DAS-->Verhicle-Track;
    ```
-<!-- ![# DAS](https://raw.githubusercontent.com/erbiaoger/PicGo/main/2023-11-2520240103190919.png) -->
+
  
 
 
