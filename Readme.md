@@ -10,12 +10,6 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=erbiaoger.erbiaoger" alt="visitors"/>   
 </p>
 
-
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-
-
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Zhiyu+Zhang;+Welcome+to+My+Profile!;I'm+a+Master+of+Geophysics+from+Jilin+University+🇨🇳.)](https://git.io/typing-svg)
 
