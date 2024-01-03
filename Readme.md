@@ -6,9 +6,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-season-animate.svg" width="300">
-</h1>
 
 <!--   my-icons -->
 <p align="center">
