@@ -5,17 +5,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake.svg">
 </picture>
 
-<table style="width: 100%;">
-    <tr>
-        <td style="text-align: center;">
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-night-rainbow.svg" width="200" height="auto">
-                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-season-animate.svg" width="200" height="auto">
-                <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-green-animate.svg">
-            </picture>
-        </td>
-    </tr>
-</table>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-night-rainbow.svg" width="300" height="auto">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-season-animate.svg" width="300" height="auto">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-green-animate.svg">
+</picture>
+
 
 
 
