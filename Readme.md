@@ -40,7 +40,7 @@ graph TD;
     Dispersion-->inversion;
     Specfem-->Seisflows;
     Qt-->dasQt;
-    DAS-->dasQt;
+    Verhicle-Track-->dasQt;
     GPR-->csimGPR;
     Qt-->csimGPR;
 
