@@ -60,7 +60,17 @@ graph TD;
 [![erbiaoger's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erbiaoger&theme=github-compact)](https://github.com/erbiaoger)
 
 
-| Property | Data |
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=erbiaoger&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,md,matlab,&theme=light" />
+
+<p align="center">
+<a href="https://github.com/erbiaoger"><img src="https://img.shields.io/badge/GitHub-erbiaoger-blue?logo=github" /></a>
+<a href="https://space.bilibili.com/477821715"><img src="https://img.shields.io/badge/哔哩哔哩-erbiaoger-pink?logo=bilibili" /></a>
+<img src="https://komarev.com/ghpvc/?username=erbiaoger&abbreviated=true&color=yellow" />
+</p>
+
+<!-- | Property | Data |
 |-|-|
 | **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![VsCode Badge](https://img.shields.io/badge/-VsCode-3776AB?style=flat&logo=VsCode&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)|
 | **Domain Knownledge**                           | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/erbiaoger/erbiaoger) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Aerbiaoger&type=Repositories) [![Geophysics Development Badge](https://img.shields.io/badge/-Geophysics-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3Aerbiaoger&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Aerbiaoger&type=Repositories)|
@@ -69,6 +79,7 @@ graph TD;
 | **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](https://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) |
 |**OS**|![Mac Badge](https://img.shields.io/badge/-Mac%20OS-000000?style=flat-square&logo=macos&logoColor=B0C4DE) ![ubuntu Badge](https://img.shields.io/badge/-Ubuntu-eee?style=flat-square&logo=ubuntu&logoColor=FF6F00) ![Mac Badge](https://img.shields.io/badge/-Windows-eee?style=flat-square&logo=windows&logoColor=00BFFF) |
 
+-->
 
 
 
@@ -76,10 +87,9 @@ graph TD;
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![erbiaoger's github stats](https://github-readme-stats.vercel.app/api?username=erbiaoger&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erbiaoger&theme=radical&layout=compact) | -->
 
+
+<!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=erbiaoger"></img>
-
-
-
 
 
 
@@ -91,6 +101,8 @@ graph TD;
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erbiaoger" alt="erbiaoger" /></a>
 </p>
+
+-->
 
  
 
