@@ -90,14 +90,17 @@ graph TD;
 
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=erbiaoger"></img>
+-->
 
 
 
 <!--  2d history skills -->
+<!--
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=erbiaoger" width="auto"></img>
+-->
 
 
-
+<!--
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erbiaoger" alt="erbiaoger" /></a>
 </p>
