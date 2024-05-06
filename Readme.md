@@ -60,8 +60,9 @@ graph TD;
 [![erbiaoger's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erbiaoger&theme=github-compact)](https://github.com/erbiaoger)
 
 
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=erbiaoger&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-
+-->
 
 <p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,md,matlab,&theme=light" />
@@ -127,8 +128,17 @@ counting of visitors to this page in this section started from May 8, 2022
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=erbiaoger/hvsrUNet&type=Date)](https://star-history.com/#erbiaoger/erbiaoger&Date)
+<!-- [![Star History Chart](https://api.star-history.com/svg?repos=erbiaoger/hvsrUNet&type=Date)](https://star-history.com/#erbiaoger/erbiaoger&Date) -->
 
+<p align="center">
+    <a href="https://star-history.com/#Xiaokang2022/Fucking-Code&Date">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=erbiaoger/Fucking-Code&type=Date&theme=dark" />
+            <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=erbiaoger/hvsrUNet&type=Date" />
+            <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=erbiaoger/hvsrUNet&type=Date" />
+        </picture>
+    </a>
+</p>
 
 
 ### Profile Views
