@@ -62,7 +62,10 @@ graph TD;
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=erbiaoger&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
+
+<p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,md,matlab,&theme=light" />
+</p>
 
 <p align="center">
 <a href="https://github.com/erbiaoger"><img src="https://img.shields.io/badge/GitHub-erbiaoger-blue?logo=github" /></a>
