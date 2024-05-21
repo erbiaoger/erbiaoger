@@ -7,19 +7,7 @@
 </picture>
 
 
-<!--   my-icons -->
-<p align="center">
-    <a href="https://github.com/erbiaoger/erbiaoger"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/xiongGPR/GPRlab/graphs/contributors"><img src="https://img.shields.io/github/contributors/xiongGPR/GPRlab?color=blue"></a>
-    <a href="https://github.com/erbiaoger/hvsrUNet/stargazers"><img src="https://img.shields.io/github/stars/erbiaoger/hvsrUNet.svg?logo=github"></a>
-    <a href="https://github.com/erbiaoger/erbiaoger/network/members"><img src="https://img.shields.io/github/forks/adjtomo/seisflows.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=erbiaoger.erbiaoger" alt="visitors"/>   
-</p>
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Zhiyu+Zhang;a+Master+of+Geophysics+from+Jilin+University+🇨🇳.;You+can+call+me+"erbiaoger"!;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
-
 
 
 ```mermaid
@@ -55,11 +43,26 @@ graph TD;
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,md,matlab,&theme=light" />
 </p>
 
+
+
+
+<!--   my-icons -->
 <p align="center">
-<a href="https://github.com/erbiaoger"><img src="https://img.shields.io/badge/GitHub-erbiaoger-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/477821715"><img src="https://img.shields.io/badge/哔哩哔哩-erbiaoger-pink?logo=bilibili" /></a>
-<img src="https://komarev.com/ghpvc/?username=erbiaoger&abbreviated=true&color=yellow" />
+    <a href="https://github.com/erbiaoger/erbiaoger"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/xiongGPR/GPRlab/graphs/contributors"><img src="https://img.shields.io/github/contributors/xiongGPR/GPRlab?color=blue"></a>
+    <a href="https://github.com/erbiaoger/hvsrUNet/stargazers"><img src="https://img.shields.io/github/stars/erbiaoger/hvsrUNet.svg?logo=github"></a>
+    <a href="https://github.com/erbiaoger/erbiaoger/network/members"><img src="https://img.shields.io/github/forks/adjtomo/seisflows.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=erbiaoger.erbiaoger" alt="visitors"/>   
+
+    <a href="https://github.com/erbiaoger"><img src="https://img.shields.io/badge/GitHub-erbiaoger-blue?logo=github" /></a>
+    <a href="https://space.bilibili.com/477821715"><img src="https://img.shields.io/badge/哔哩哔哩-erbiaoger-pink?logo=bilibili" /></a>
+    <img src="https://komarev.com/ghpvc/?username=erbiaoger&abbreviated=true&color=yellow" />
+
+    
 </p>
+
+
 
 | Property | Data |
 |-|-|
