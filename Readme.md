@@ -8,9 +8,9 @@
 
 <!--   my-Contact information -->
   <p align="center">
-  <a href="https://space.bilibili.com/477821715"><img src="https://img.shields.io/badge/哔哩哔哩-erbiaoger-pink?logo=bilibili"/></a>
   <a href="https://raw.githubusercontent.com/erbiaoger/PicGo/main/2024-03-04202405212219570.JPG"> <img src="https://img.shields.io/badge/WeChat-ZhangZhiyu-blue?style=flat&logo=wechat&logoColor=white">
   <a href="https://github.com/erbiaoger/erbiaoger/blob/main/gmail.md"> <img src="https://img.shields.io/badge/Gmail-erbiaoger-blue?style=flat&logo=gmail&logoColor=white">
+  <a href="https://space.bilibili.com/477821715"><img src="https://img.shields.io/badge/哔哩哔哩-erbiaoger-pink?logo=bilibili"/></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Zhiyu+Zhang;a+Master+of+Geophysics+from+Jilin+University+🇨🇳.;You+can+call+me+"erbiaoger"!;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
@@ -46,7 +46,7 @@ graph TD;
 -->
 
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,md,matlab,qt,&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,qt,md,html,css,js,matlab,&theme=light" />
 </p>
 
 
