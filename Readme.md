@@ -61,11 +61,11 @@ graph TD;
 </p>
 
 
-| **Contact me** | **Contact me** |
+| **Contact me** | **Click* |
 |-|-|
-|  bilibili | <a href="https://space.bilibili.com/477821715"><img src="https://img.shields.io/badge/哔哩哔哩-erbiaoger-pink?logo=bilibili"/></a> |
-| github | <a href="https://github.com/erbiaoger"> <img src="https://img.shields.io/badge/GitHub-erbiaoger-blue?style=flat&logo=github&logoColor=white"> |
-
+| **Bilibili** | <a href="https://space.bilibili.com/477821715"><img src="https://img.shields.io/badge/哔哩哔哩-erbiaoger-pink?logo=bilibili"/></a> |
+| **Github** | <a href="https://github.com/erbiaoger"> <img src="https://img.shields.io/badge/GitHub-erbiaoger-blue?style=flat&logo=github&logoColor=white"> |
+| **WeChat** | <a href="https://raw.githubusercontent.com/erbiaoger/PicGo/main/2024-03-04202405212219570.JPG"> <img src="https://img.shields.io/badge/WeChat-ZhangZhiyu-blue?style=flat&logo=wechat&logoColor=white">
 
 | Property | Data |
 |-|-|
