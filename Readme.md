@@ -47,19 +47,6 @@ graph TD;
    ```
 
 
-
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-season-animate.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-green-animate.svg">
-</picture>
-
-<!--   GitHub stats graph -->
-## 📈 GitHub Activity Graph:
-[![erbiaoger's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erbiaoger&theme=github-compact)](https://github.com/erbiaoger)
-
-
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=erbiaoger&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 -->
@@ -89,6 +76,19 @@ graph TD;
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=erbiaoger"></img>
 -->
+
+
+
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-season-animate.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-green-animate.svg">
+</picture>
+
+<!--   GitHub stats graph -->
+## 📈 GitHub Activity Graph:
+[![erbiaoger's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erbiaoger&theme=github-compact)](https://github.com/erbiaoger)
 
 
 
