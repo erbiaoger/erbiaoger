@@ -47,25 +47,25 @@ graph TD;
 
 
 <!--   my-icons -->
+  <p align="center">
+  <a href="https://space.bilibili.com/477821715"><img src="https://img.shields.io/badge/哔哩哔哩-erbiaoger-pink?logo=bilibili"/></a>
+  <a href="https://raw.githubusercontent.com/erbiaoger/PicGo/main/2024-03-04202405212219570.JPG"> <img src="https://img.shields.io/badge/WeChat-ZhangZhiyu-blue?style=flat&logo=wechat&logoColor=white">
+  <a href="https://github.com/erbiaoger/erbiaoger/blob/main/gmail.md"> <img src="https://img.shields.io/badge/Gmail-erbiaoger-blue?style=flat&logo=gmail&logoColor=white">
+</p>
+
+
 <p align="center">
     <a href="https://github.com/erbiaoger/erbiaoger"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/xiongGPR/GPRlab/graphs/contributors"><img src="https://img.shields.io/github/contributors/xiongGPR/GPRlab?color=blue"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=erbiaoger.erbiaoger" alt="visitors"/>   
-    <a href="https://github.com/erbiaoger"><img src="https://img.shields.io/badge/GitHub-erbiaoger-blue?logo=github" /></a>
-    <a href="https://space.bilibili.com/477821715"><img src="https://img.shields.io/badge/哔哩哔哩-erbiaoger-pink?logo=bilibili" /></a>
     <img src="https://komarev.com/ghpvc/?username=erbiaoger&abbreviated=true&color=yellow" />
     <a href="https://github.com/erbiaoger/hvsrUNet/stargazers"><img src="https://img.shields.io/github/stars/erbiaoger/hvsrUNet.svg?logo=github"></a>
     <a href="https://github.com/erbiaoger/erbiaoger/network/members"><img src="https://img.shields.io/github/forks/adjtomo/seisflows.svg?color=blue&logo=github"></a>
-    
 </p>
 
 
-| **Contact me** | **Click* |
-|-|-|
-| **Bilibili** | <a href="https://space.bilibili.com/477821715"><img src="https://img.shields.io/badge/哔哩哔哩-erbiaoger-pink?logo=bilibili"/></a> |
-| **Github** | <a href="https://github.com/erbiaoger"> <img src="https://img.shields.io/badge/GitHub-erbiaoger-blue?style=flat&logo=github&logoColor=white"> |
-| **WeChat** | <a href="https://raw.githubusercontent.com/erbiaoger/PicGo/main/2024-03-04202405212219570.JPG"> <img src="https://img.shields.io/badge/WeChat-ZhangZhiyu-blue?style=flat&logo=wechat&logoColor=white">
+
 
 | Property | Data |
 |-|-|
