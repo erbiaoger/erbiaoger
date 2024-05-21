@@ -40,7 +40,7 @@ graph TD;
 -->
 
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,md,matlab,&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,md,matlab,qt,&theme=light" />
 </p>
 
 
@@ -60,13 +60,15 @@ graph TD;
     
 </p>
 
-<a href="https://space.bilibili.com/477821715"><img src="https://img.shields.io/badge/哔哩哔哩-erbiaoger-pink?logo=bilibili"/></a>
-<a href="https://github.com/erbiaoger"> <img src="https://img.shields.io/badge/GitHub-erbiaoger-blue?style=flat&logo=github&logoColor=white">
+
+| **Contact me** | **Contact me** |
+|-|-|
+|  bilibili | <a href="https://space.bilibili.com/477821715"><img src="https://img.shields.io/badge/哔哩哔哩-erbiaoger-pink?logo=bilibili"/></a> |
+| github | <a href="https://github.com/erbiaoger"> <img src="https://img.shields.io/badge/GitHub-erbiaoger-blue?style=flat&logo=github&logoColor=white"> |
+
 
 | Property | Data |
 |-|-|
-| **Contact me** | <a href="https://space.bilibili.com/477821715"><img src="https://img.shields.io/badge/哔哩哔哩-erbiaoger-pink?logo=bilibili"/></a>
-<a href="https://github.com/erbiaoger"> <img src="https://img.shields.io/badge/GitHub-erbiaoger-blue?style=flat&logo=github&logoColor=white"> |
 | **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![VsCode Badge](https://img.shields.io/badge/-VsCode-3776AB?style=flat&logo=VsCode&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)|
 | **Domain Knownledge**                           | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/erbiaoger/erbiaoger) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Aerbiaoger&type=Repositories) [![Geophysics Development Badge](https://img.shields.io/badge/-Geophysics-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3Aerbiaoger&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Aerbiaoger&type=Repositories)|
 | **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/erbiaoger/erbiaoger) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/erbiaoger/erbiaoger) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/erbiaoger/erbiaoger)|
