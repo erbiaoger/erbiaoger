@@ -41,6 +41,11 @@ graph TD;
 
    ```
 
+## Main Project
+
+[八卦](https://github.com/erbiaoger/Bagua): 使用openAI来做八卦六爻卜卦
+
+
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=erbiaoger&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
