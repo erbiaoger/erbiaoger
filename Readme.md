@@ -43,9 +43,14 @@ graph TD;
 
 ## Main Project
 
-[八卦](https://github.com/erbiaoger/Bagua): 使用openAI来做**八卦六爻**卜卦
+|name|describe|
+|--|--|
+|🚀[八卦](https://github.com/erbiaoger/Bagua)|使用openAI来做**八卦六爻**卜卦|
+|🚀[DAS_Procee_Show](https://github.com/erbiaoger/DAS_Procee_Show)|DAS data preprocessing and visualization, cross-correlation, automatic dispersion curve extraction, one-dimensional dispersion inversion|
+|🚀[Car_yolov8_seg](https://github.com/erbiaoger/Car_yolov8_seg)|Use yolov8 to obtain the trajectory and speed of vehicles in DAS data|
 
-[DAS_Procee_Show](https://github.com/erbiaoger/DAS_Procee_Show): DAS data preprocessing and visualization, cross-correlation, automatic dispersion curve extraction, one-dimensional dispersion inversion
+
+
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=erbiaoger&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
@@ -54,12 +59,6 @@ graph TD;
 <p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,qt,md,html,css,js,matlab,&theme=light" />
 </p>
-
-
-
-
-
-
 
 <p align="center">
     <a href="https://github.com/erbiaoger/erbiaoger"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
