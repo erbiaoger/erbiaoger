@@ -43,9 +43,9 @@ graph TD;
 
 ## Main Project
 
-[八卦](https://github.com/erbiaoger/Bagua): 使用openAI来做八卦六爻卜卦
+[八卦](https://github.com/erbiaoger/Bagua): 使用openAI来做**八卦六爻**卜卦
 
-
+[DAS_Procee_Show](https://github.com/erbiaoger/DAS_Procee_Show): DAS data preprocessing and visualization, cross-correlation, automatic dispersion curve extraction, one-dimensional dispersion inversion
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=erbiaoger&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
