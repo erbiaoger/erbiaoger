@@ -43,12 +43,17 @@ graph TD;
 
 ## Main Project
 
-|name|describe|
-|--|--|
-|🚀[八卦](https://github.com/erbiaoger/Bagua)|使用openAI来做**八卦六爻**卜卦|
-|🚀[DAS_Procee_Show](https://github.com/erbiaoger/DAS_Procee_Show)|DAS data preprocessing and visualization, cross-correlation, automatic dispersion curve extraction, one-dimensional dispersion inversion|
-|🚀[Car_yolov8_seg](https://github.com/erbiaoger/Car_yolov8_seg)|Use yolov8 to obtain the trajectory and speed of vehicles in DAS data|
 
+| name                                                         | describe                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 🚀[八卦](https://github.com/erbiaoger/Bagua)                  | 使用openAI来做**八卦六爻**卜卦                               |
+| 🚀[DAS_Procee_Show](https://github.com/erbiaoger/DAS_Procee_Show) | DAS data preprocessing and visualization, cross-correlation, automatic dispersion curve extraction, one-dimensional dispersion inversion |
+| 🚀[Car_yolov8_seg](https://github.com/erbiaoger/Car_yolov8_seg) | Use yolov8 to obtain the trajectory and speed of vehicles in DAS data |
+|🚀[voice](https://github.com/erbiaoger/voice)|Convert seismic signals into sound signals and output them|
+|🚀[GPR](https://github.com/erbiaoger/csimGPR)|Software for interpreting lunar and Martian subsurface structures|
+|🚀[DAS Denoise](https://github.com/erbiaoger/CUT_plus)|Upgrade CUT to obtain vehicle signal denoising in DAS data|
+|🚀[seisflows](https://github.com/erbiaoger/seisflows)|An automated workflow tool for full waveform inversion and adjoint tomography|
+|🚀[hvsr+dispersion+UNet](https://github.com/erbiaoger/hvsrUNet)|Using deep learning methods to invert subsurface models using HVSR and dispersion|
 
 
 
