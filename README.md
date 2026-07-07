@@ -75,19 +75,17 @@ graph TD;
   </a>
 </p>
 
-## Star History
-
-<p align="center">
-  <a href="https://star-history.com/#erbiaoger/hvsrUNet&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=erbiaoger/hvsrUNet&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=erbiaoger/hvsrUNet&type=Date" />
-      <img alt="Star History Chart for hvsrUNet" src="https://api.star-history.com/svg?repos=erbiaoger/hvsrUNet&type=Date" />
-    </picture>
-  </a>
-</p>
-
 ---
+
+## Professional Notes
+
+My work is centered on geophysical signal processing and subsurface imaging. I am especially interested in how dense sensing systems, such as distributed acoustic sensing, can transform traffic vibration, ambient noise, and seismic wavefields into interpretable information about the near surface.
+
+In seismic data analysis, I focus on the full path from raw records to physical interpretation: preprocessing, filtering, cross-correlation, dispersion curve extraction, HVSR analysis, inversion, and visualization. These problems are attractive because they sit between physics and computation: the wavefield contains structure, but useful structure only appears after careful signal processing and model constraints.
+
+For inversion and machine learning, I care about methods that remain connected to geophysical meaning. Neural networks can help with denoising, segmentation, feature extraction, and fast model estimation, but the final goal is still a physically reasonable velocity structure, interface geometry, or signal interpretation rather than only a visually good prediction.
+
+I also build scientific software because research tools should be reproducible, inspectable, and pleasant to use. A good workflow should help researchers move from field data to figures, models, and decisions with fewer manual steps and fewer hidden assumptions.
 
 <p align="center">
   <b>Thanks for visiting.</b><br/>
