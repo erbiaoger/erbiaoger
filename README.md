@@ -23,6 +23,28 @@
 
 ---
 
+## GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/erbiaoger">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=erbiaoger&theme=github-dark-dimmed&custom_title=Zhiyu%20Zhang's%20Contribution%20Graph&hide_border=true" alt="Zhiyu Zhang's Contribution Graph" />
+  </a>
+</p>
+
+## Dynamic Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-season-animate.svg">
+  <img alt="3D GitHub contribution profile" src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-green-animate.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Research & Engineering Focus
 
 ```mermaid
@@ -47,34 +69,6 @@ graph TD;
     GPR-->csimGPR;
     Qt-->csimGPR;
 ```
-
-## Research Engineering Dashboard
-
-<p align="center">
-  <img src="github-metrics.svg" alt="Research engineering metrics dashboard" width="720" />
-</p>
-
-## GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/erbiaoger">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=erbiaoger&theme=github-dark-dimmed&custom_title=Zhiyu%20Zhang's%20Contribution%20Graph&hide_border=true" alt="Zhiyu Zhang's Contribution Graph" />
-  </a>
-</p>
-
-## Dynamic Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-season-animate.svg">
-  <img alt="3D GitHub contribution profile" src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/main/profile-3d-contrib/profile-green-animate.svg">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/erbiaoger/erbiaoger/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
