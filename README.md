@@ -25,115 +25,28 @@
 
 ## Research & Engineering Focus
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Distributed Acoustic Sensing</h3>
-      <p>DAS data processing, spatio-temporal visualization, vehicle-induced signals, cross-correlation, automatic dispersion curve extraction, and field-data workflows.</p>
-    </td>
-    <td width="50%">
-      <h3>Seismology & Surface Waves</h3>
-      <p>Seismic interferometry, surface-wave dispersion, HVSR analysis, shallow subsurface velocity models, and physics-guided interpretation.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Inversion & Machine Learning</h3>
-      <p>Deep-learning-assisted geophysical inversion, denoising, segmentation, model estimation, and reproducible scientific pipelines.</p>
-    </td>
-    <td width="50%">
-      <h3>Scientific Software</h3>
-      <p>Python, MATLAB, Qt, seismic/GPR tools, visualization interfaces, and open workflows for research and engineering experiments.</p>
-    </td>
-  </tr>
-</table>
-
 ```mermaid
-flowchart LR
-    A["Field Data<br/>DAS / Seismic / GPR"] --> B["Signal Processing<br/>Filtering / Correlation / Denoising"]
-    B --> C["Feature Extraction<br/>Dispersion / HVSR / Wavefields"]
-    C --> D["Inversion & AI<br/>Velocity Models / Segmentation"]
-    D --> E["Visualization & GUI<br/>Qt / Python / MATLAB"]
-    E --> F["Research Tools<br/>Open-source Workflows"]
+graph TD;
+    Zhang-Zhiyu-->Deep-learning;
+    Zhang-Zhiyu-->DAS;
+    Zhang-Zhiyu-->Geophysics;
+    Zhang-Zhiyu-->Qt;
+    Geophysics-->Specfem;
+    Geophysics-->Seisflows;
+    Geophysics-->HVSR;
+    Geophysics-->Dispersion;
+    Geophysics-->GPR;
+    Deep-learning-->inversion;
+    Deep-learning-->Vehicle-Track;
+    DAS-->Vehicle-Track;
+    HVSR-->inversion;
+    Dispersion-->inversion;
+    Specfem-->Seisflows;
+    Qt-->dasQt;
+    Vehicle-Track-->dasQt;
+    GPR-->csimGPR;
+    Qt-->csimGPR;
 ```
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/erbiaoger/dasQt_apply">dasQt_apply</a></h3>
-      <p>DAS-oriented Qt/Python workflows for signal operations, visualization experiments, and applied processing ideas.</p>
-      <p><code>DAS</code> <code>Qt</code> <code>Signal Processing</code> <code>Visualization</code></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/erbiaoger/hvsrUNet">hvsrUNet</a></h3>
-      <p>Deep learning inversion of subsurface models using HVSR and dispersion information.</p>
-      <p><code>HVSR</code> <code>Surface Wave</code> <code>Deep Learning</code> <code>Inversion</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/erbiaoger/csimGPR">csimGPR</a></h3>
-      <p>Software for interpreting lunar and Martian subsurface structures from GPR observations.</p>
-      <p><code>GPR</code> <code>Planetary Geophysics</code> <code>Qt</code> <code>Interpretation</code></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/erbiaoger/das-gauge-response">das-gauge-response</a></h3>
-      <p>DAS gauge-response experiments for understanding fiber measurements and signal behavior.</p>
-      <p><code>DAS</code> <code>Gauge Response</code> <code>Physics</code> <code>Signal Processing</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/erbiaoger/Yolo_CarVelocity">Yolo_CarVelocity</a></h3>
-      <p>Vehicle trajectory and speed extraction experiments using YOLO-based computer vision workflows.</p>
-      <p><code>YOLOv8</code> <code>DAS</code> <code>Vehicle Tracking</code> <code>Computer Vision</code></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/erbiaoger/voice">voice</a></h3>
-      <p>Transform seismic signals into sound signals for exploratory listening and signal intuition.</p>
-      <p><code>Seismic Signal</code> <code>Audio</code> <code>Python</code> <code>Exploration</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/erbiaoger/seisflows">seisflows</a></h3>
-      <p>Automated workflow tool for full waveform inversion and adjoint tomography.</p>
-      <p><code>FWI</code> <code>Adjoint Tomography</code> <code>Seismology</code> <code>Workflow</code></p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/erbiaoger/Bagua">八卦</a></h3>
-      <p>A side project that experiments with OpenAI-powered Liuyao divination workflows.</p>
-      <p><code>OpenAI</code> <code>Fun Project</code> <code>Automation</code></p>
-    </td>
-  </tr>
-</table>
-
-## Technical Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,qt,matlab,md,html,css,js,git,github,linux&theme=light" alt="Skill icons" />
-</p>
-
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>Python, MATLAB, C/C++, Markdown, JavaScript</td>
-  </tr>
-  <tr>
-    <td><b>Scientific Tools</b></td>
-    <td>NumPy, SciPy, PyTorch, TensorFlow, OpenCV, ObsPy-style seismic workflows</td>
-  </tr>
-  <tr>
-    <td><b>Engineering Tools</b></td>
-    <td>Qt, GitHub Actions, Linux, macOS, visualization and GUI development</td>
-  </tr>
-  <tr>
-    <td><b>Research Domains</b></td>
-    <td>DAS, seismology, surface waves, HVSR, GPR, inversion, signal processing</td>
-  </tr>
-</table>
 
 ## Dynamic Contributions
 
