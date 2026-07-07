@@ -65,11 +65,6 @@ graph TD;
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erbiaoger&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erbiaoger&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
   <a href="https://github.com/erbiaoger">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=erbiaoger&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
   </a>
