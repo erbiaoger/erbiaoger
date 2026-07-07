@@ -1,0 +1,110 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Zhiyu Zhang GitHub profile banner</title>
+  <desc id="desc">A technical geophysics banner showing DAS fiber sensing, seismic wavefields, inversion, and scientific computing.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="38%" stop-color="#0b2447"/>
+      <stop offset="72%" stop-color="#16324f"/>
+      <stop offset="100%" stop-color="#08111f"/>
+    </linearGradient>
+    <linearGradient id="fiber" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#20e3b2"/>
+      <stop offset="48%" stop-color="#29b6f6"/>
+      <stop offset="100%" stop-color="#fbc02d"/>
+    </linearGradient>
+    <linearGradient id="model" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#41d1ff" stop-opacity="0.95"/>
+      <stop offset="42%" stop-color="#2b7cff" stop-opacity="0.76"/>
+      <stop offset="100%" stop-color="#ffb347" stop-opacity="0.78"/>
+    </linearGradient>
+    <radialGradient id="pulse" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95"/>
+      <stop offset="42%" stop-color="#20e3b2" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#20e3b2" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .serif { font-family: 'Times New Roman', Times, serif; }
+      .small { font-size: 28px; fill: #c8f7ff; opacity: 0.92; }
+      .label { font-size: 22px; fill: #f8fbff; opacity: 0.9; }
+      .micro { font-size: 18px; fill: #aee9ff; opacity: 0.76; }
+      @keyframes drift { 0% { transform: translateX(-30px); opacity: .35; } 50% { opacity: .9; } 100% { transform: translateX(30px); opacity: .35; } }
+      @keyframes dash { to { stroke-dashoffset: -900; } }
+      @keyframes blink { 0%, 100% { opacity: .28; } 50% { opacity: 1; } }
+      .wave { animation: dash 18s linear infinite; }
+      .spark { animation: blink 3.2s ease-in-out infinite; }
+      .drift { animation: drift 9s ease-in-out infinite alternate; transform-origin: center; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="520" fill="url(#bg)"/>
+  <g opacity="0.45">
+    <path d="M0 90 C220 35 330 130 520 86 C790 25 960 130 1200 70 C1360 30 1480 60 1600 20" fill="none" stroke="#28d7ff" stroke-width="2" opacity="0.5"/>
+    <path d="M0 438 C210 390 320 482 540 418 C830 335 990 458 1220 394 C1390 346 1490 390 1600 338" fill="none" stroke="#20e3b2" stroke-width="2" opacity="0.36"/>
+    <g stroke="#ffffff" stroke-opacity="0.07" stroke-width="1">
+      <path d="M80 0 V520"/><path d="M200 0 V520"/><path d="M320 0 V520"/><path d="M440 0 V520"/><path d="M560 0 V520"/><path d="M680 0 V520"/><path d="M800 0 V520"/><path d="M920 0 V520"/><path d="M1040 0 V520"/><path d="M1160 0 V520"/><path d="M1280 0 V520"/><path d="M1400 0 V520"/><path d="M1520 0 V520"/>
+      <path d="M0 80 H1600"/><path d="M0 160 H1600"/><path d="M0 240 H1600"/><path d="M0 320 H1600"/><path d="M0 400 H1600"/><path d="M0 480 H1600"/>
+    </g>
+  </g>
+
+  <g class="drift" opacity="0.86">
+    <path d="M70 310 C210 190 300 374 430 246 C560 118 665 332 800 224 C955 100 1060 340 1220 208 C1355 98 1450 188 1540 128" fill="none" stroke="#31e6ff" stroke-width="4" stroke-linecap="round" stroke-dasharray="18 18" class="wave" filter="url(#glow)"/>
+    <path d="M60 350 C250 286 350 392 505 310 C650 232 790 366 930 288 C1100 196 1215 336 1375 250 C1468 200 1525 224 1570 196" fill="none" stroke="#fbc02d" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="12 16" class="wave" opacity="0.8"/>
+  </g>
+
+  <g transform="translate(78 88)">
+    <rect x="0" y="0" width="580" height="284" rx="28" fill="#061021" fill-opacity="0.62" stroke="#42d9ff" stroke-opacity="0.44"/>
+    <text x="34" y="64" class="serif" font-size="54" font-weight="700" fill="#ffffff">Zhiyu Zhang</text>
+    <text x="36" y="112" class="serif small">Geophysics x Scientific Computing x AI</text>
+    <text x="36" y="164" class="serif label">DAS - Seismology - Surface Waves - HVSR - Inversion</text>
+    <text x="36" y="208" class="serif micro">Field sensing -> Signal processing -> Subsurface models -> Open tools</text>
+    <g transform="translate(36 232)">
+      <rect x="0" y="0" width="112" height="34" rx="17" fill="#20e3b2" fill-opacity="0.18" stroke="#20e3b2" stroke-opacity="0.7"/>
+      <text x="22" y="24" class="serif" font-size="18" fill="#dbfff8">Python</text>
+      <rect x="130" y="0" width="86" height="34" rx="17" fill="#29b6f6" fill-opacity="0.18" stroke="#29b6f6" stroke-opacity="0.7"/>
+      <text x="155" y="24" class="serif" font-size="18" fill="#e5f7ff">Qt</text>
+      <rect x="234" y="0" width="116" height="34" rx="17" fill="#fbc02d" fill-opacity="0.18" stroke="#fbc02d" stroke-opacity="0.7"/>
+      <text x="256" y="24" class="serif" font-size="18" fill="#fff5c9">MATLAB</text>
+    </g>
+  </g>
+
+  <g transform="translate(735 92)">
+    <rect x="0" y="0" width="360" height="320" rx="26" fill="#07111f" fill-opacity="0.55" stroke="#ffffff" stroke-opacity="0.16"/>
+    <text x="28" y="46" class="serif label">DAS Fiber Sensing</text>
+    <path d="M34 126 C86 66 145 184 210 120 C252 78 290 100 326 72" fill="none" stroke="url(#fiber)" stroke-width="8" stroke-linecap="round" filter="url(#glow)"/>
+    <g fill="#ffffff" filter="url(#glow)">
+      <circle cx="68" cy="100" r="7"/><circle cx="128" cy="132" r="7"/><circle cx="190" cy="132" r="7"/><circle cx="256" cy="92" r="7"/><circle cx="316" cy="76" r="7"/>
+    </g>
+    <g opacity="0.92">
+      <circle cx="128" cy="132" r="34" fill="url(#pulse)" class="spark"/>
+      <circle cx="256" cy="92" r="42" fill="url(#pulse)" class="spark"/>
+    </g>
+    <path d="M34 250 C92 218 140 272 198 232 C256 192 296 250 330 220" fill="none" stroke="#ff5f7e" stroke-width="3" stroke-dasharray="8 9" opacity="0.9"/>
+    <text x="34" y="292" class="serif micro">strain-rate records, vehicles, ambient noise</text>
+  </g>
+
+  <g transform="translate(1135 90)">
+    <rect x="0" y="0" width="378" height="322" rx="26" fill="#07111f" fill-opacity="0.55" stroke="#ffffff" stroke-opacity="0.16"/>
+    <text x="28" y="46" class="serif label">Inversion &amp; Models</text>
+    <path d="M28 258 C90 218 146 246 202 204 C264 158 312 196 350 150 L350 290 L28 290 Z" fill="url(#model)" opacity="0.82"/>
+    <path d="M28 124 C90 96 126 146 178 114 C238 78 286 110 350 76" fill="none" stroke="#ffffff" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M28 164 C90 136 126 186 178 154 C238 118 286 150 350 116" fill="none" stroke="#ffffff" stroke-width="2" stroke-opacity="0.25"/>
+    <path d="M28 204 C90 176 126 226 178 194 C238 158 286 190 350 156" fill="none" stroke="#ffffff" stroke-width="2" stroke-opacity="0.2"/>
+    <g class="spark" fill="#fbc02d">
+      <circle cx="84" cy="226" r="4"/><circle cx="170" cy="224" r="4"/><circle cx="255" cy="184" r="4"/><circle cx="320" cy="166" r="4"/>
+    </g>
+    <text x="28" y="292" class="serif micro">dispersion + HVSR + deep learning</text>
+  </g>
+
+  <g opacity="0.7" class="serif">
+    <text x="76" y="474" font-size="20" fill="#9eefff">github.com/erbiaoger</text>
+    <text x="1248" y="474" font-size="20" fill="#9eefff">Jilin University - Geophysical Engineering</text>
+  </g>
+</svg>
