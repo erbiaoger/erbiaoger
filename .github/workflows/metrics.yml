@@ -1,0 +1,37 @@
+name: metrics
+
+on:
+  schedule:
+    - cron: "17 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/metrics.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate research engineering dashboard
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: erbiaoger
+          template: classic
+          base: header, activity, repositories, metadata
+          config_timezone: Asia/Shanghai
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          plugin_languages_threshold: 1%
+          plugin_lines: yes
+          plugin_lines_sections: base
+          plugin_repositories: yes
+          plugin_repositories_featured: erbiaoger/hvsrUNet, erbiaoger/csimGPR, erbiaoger/das-gauge-response, erbiaoger/voice

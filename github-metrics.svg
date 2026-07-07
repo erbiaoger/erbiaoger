@@ -1,0 +1,74 @@
+<svg width="720" height="420" viewBox="0 0 720 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Research engineering metrics dashboard</title>
+  <desc id="desc">A GitHub profile dashboard for geophysics, DAS, seismic inversion, and scientific software.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#102438"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="bar1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#20e3b2"/>
+      <stop offset="100%" stop-color="#29b6f6"/>
+    </linearGradient>
+    <linearGradient id="bar2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#29b6f6"/>
+      <stop offset="100%" stop-color="#fbc02d"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .font { font-family: 'Times New Roman', Times, serif; }
+      .title { font-size: 28px; font-weight: 700; fill: #f0f6fc; }
+      .sub { font-size: 15px; fill: #9ecbff; }
+      .label { font-size: 17px; fill: #f0f6fc; font-weight: 700; }
+      .text { font-size: 14px; fill: #c9d1d9; }
+      .tiny { font-size: 12px; fill: #8b949e; }
+      @keyframes pulse { 0%,100% { opacity: .45; } 50% { opacity: 1; } }
+      .pulse { animation: pulse 3.4s ease-in-out infinite; }
+    </style>
+  </defs>
+  <rect width="720" height="420" rx="18" fill="url(#bg)" stroke="#30363d"/>
+  <text x="34" y="48" class="font title">Research Engineering Dashboard</text>
+  <text x="34" y="74" class="font sub">Geophysics • DAS • Seismology • Inversion • Scientific Software</text>
+
+  <g transform="translate(34 108)">
+    <rect width="310" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
+    <text x="20" y="32" class="font label">Signal Pipeline</text>
+    <text x="20" y="60" class="font text">Field data → filtering → correlation</text>
+    <text x="20" y="84" class="font text">dispersion / HVSR → velocity models</text>
+    <path d="M20 100 H278" stroke="url(#bar1)" stroke-width="5" stroke-linecap="round" filter="url(#glow)"/>
+  </g>
+
+  <g transform="translate(376 108)">
+    <rect width="310" height="118" rx="14" fill="#161b22" stroke="#30363d"/>
+    <text x="20" y="32" class="font label">Computational Stack</text>
+    <text x="20" y="60" class="font text">Python • MATLAB • Qt • C/C++</text>
+    <text x="20" y="84" class="font text">ML workflows + reproducible tooling</text>
+    <path d="M20 100 H278" stroke="url(#bar2)" stroke-width="5" stroke-linecap="round" filter="url(#glow)"/>
+  </g>
+
+  <g transform="translate(34 252)">
+    <rect width="652" height="110" rx="14" fill="#161b22" stroke="#30363d"/>
+    <text x="20" y="32" class="font label">Research Focus Map</text>
+    <g class="font">
+      <rect x="20" y="52" width="92" height="30" rx="15" fill="#0e4429" stroke="#20e3b2"/>
+      <text x="45" y="72" class="text">DAS</text>
+      <rect x="126" y="52" width="112" height="30" rx="15" fill="#0b3158" stroke="#29b6f6"/>
+      <text x="151" y="72" class="text">Seismology</text>
+      <rect x="252" y="52" width="100" height="30" rx="15" fill="#3b2f05" stroke="#fbc02d"/>
+      <text x="281" y="72" class="text">HVSR</text>
+      <rect x="366" y="52" width="108" height="30" rx="15" fill="#3d1f33" stroke="#ff7eb6"/>
+      <text x="392" y="72" class="text">Inversion</text>
+      <rect x="488" y="52" width="130" height="30" rx="15" fill="#1f2a44" stroke="#a5d6ff"/>
+      <text x="510" y="72" class="text">Open Tools</text>
+    </g>
+    <text x="20" y="96" class="font tiny">This image is a local placeholder; GitHub Actions will refresh it with lowlighter/metrics.</text>
+  </g>
+  <circle cx="670" cy="44" r="10" fill="#20e3b2" class="pulse"/>
+</svg>
